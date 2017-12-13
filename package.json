@@ -1,6 +1,6 @@
 {
   "name": "pubsub-replay",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Useful for when you need to replay the last sent event on a Pubsub network. Based on `pubsub-js`",
   "main": "out/index.js",
   "scripts": {
