@@ -23,10 +23,10 @@ export class PubsubReplay {
   }
 
   static unsubscribe(message: string) {
-    Pubsub.unsubscribe(message);
+    return Pubsub.unsubscribe(message);
   }
 
   static clearAllSubscriptions() {
-    Pubsub.clearAllSubscriptions();
+    return Pubsub.clearAllSubscriptions();
   }
 }
