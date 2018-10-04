@@ -1,5 +1,7 @@
 # Pubsub replay
 
+![](https://travis-ci.org/owsas/pubsub-replay.svg?branch=master)
+
 Useful for when you need to replay the last sent event on a Pubsub network. Based on `pubsub-js`.
 
 ## Installation
