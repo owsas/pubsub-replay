@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "microcache": "^1.0.0",
-    "pubsub-js": "^1.5.7"
+    "pubsub-js": "^1.7.0"
   },
   "jest": {
     "roots": [
